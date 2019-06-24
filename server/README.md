@@ -1,0 +1,2 @@
+# hiRED-server
+get hiRED
